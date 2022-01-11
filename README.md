@@ -1,6 +1,6 @@
 ![SOUL-VA_logo](https://user-images.githubusercontent.com/42720670/143501884-f9a4daac-9460-4312-bacf-4984ef002dc4.png)
 # The SOUL Virtual Analog Library
-[SOUL-VA](https://github.com/thezhe/SOUL-VA) is a collection of analog-inspired audio effects. Unlike other libraries, this project achieves [analytical](https://math.stackexchange.com/questions/935405/what-s-the-difference-between-analytical-and-numerical-approaches-to-problems) solutions and [a strict -60dB peak amplitude limit for aliasing artifacts](https://github.com/thezhe/SOUL-VA#example-3-onepolec_lan-nonlinearity--500). Each effect can run at full quality at 44.1kHz without any additional antialiasing measures. In addition, unless marked otherwise, parameters are artifact-free under modulation up through 20Hz.
+[SOUL-VA](https://github.com/thezhe/SOUL-VA) is a collection of analog-inspired audio effects. Unlike other libraries, this project achieves [analytical](https://math.stackexchange.com/questions/935405/what-s-the-difference-between-analytical-and-numerical-approaches-to-problems) solutions and [a strict -60dB peak amplitude limit for aliasing artifacts](https://github.com/thezhe/SOUL-VA#example-effect-3-onepolec_lan-nonlinearity--500). Each effect can run at full quality at 44.1kHz without any additional antialiasing measures. In addition, unless marked otherwise, parameters are artifact-free under modulation up through 20Hz.
 
 ## Background Knowledge
 This library considers background knowledge trivial; *SOUL-VA does not re-explain any of the following concepts*:  
